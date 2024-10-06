@@ -24,7 +24,7 @@ if os.path.exists(file_path):
         df = pd.DataFrame(data)
 
         # Definir el nombre del archivo CSV de salida en la misma carpeta
-        output_file = os.path.join(current_directory, 'Gift_Cards2.csv')
+        output_file = os.path.join(current_directory, 'Gift_Cards.csv')
 
         # Exportar el DataFrame a un archivo CSV
         df.to_csv(output_file, index=False, encoding='utf-8')
