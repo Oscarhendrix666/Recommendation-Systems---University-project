@@ -1,6 +1,6 @@
 # Sistema de Recomendación para Reseñas de Amazon: Gift Cards
 
-EEste proyecto implementa un sistema de recomendación basado en el conjunto de datos **Amazon Product Review: Gift Cards** en su versión 2023. Se han desarrollado múltiples enfoques, incluyendo filtrado colaborativo, filtrado basado en contenido y un modelo híbrido para generar recomendaciones personalizadas. El proyecto fue desarrollado para el ramo de Sistemas de Recomendaciones, impartido en la carrera de Ingeniería Civil en Informática y Telecomunicaciones en la Universidad Finis Terrae.
+Este proyecto implementa un sistema de recomendación basado en el conjunto de datos **Amazon Product Review: Gift Cards** en su versión 2023. Se han desarrollado múltiples enfoques, incluyendo filtrado colaborativo, filtrado basado en contenido y un modelo híbrido para generar recomendaciones personalizadas. El proyecto fue desarrollado para el ramo de Sistemas de Recomendaciones, impartido en la carrera de Ingeniería Civil en Informática y Telecomunicaciones en la Universidad Finis Terrae.
 
 Fuente: Ni, J., Li, J., & McAuley, J. (2019). Justifying recommendations using distantly-labeled reviews and fine-grained aspects. arXiv preprint. Recuperado de: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
 
